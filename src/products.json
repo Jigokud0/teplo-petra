@@ -1,0 +1,122 @@
+[
+  {
+    "title": "0020119390 (A) Плата управления PROTHERM Lynx",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/20811087/2a000001a0cddd53688fab0417d8c57de908/M_height",
+    "price": 12500,
+    "id": 0,
+    "name": "Плата управления Protherm Lynx",
+    "cat": "Платы управления",
+    "article": "0020119390",
+    "image": "/images/product-0.webp"
+  },
+  {
+    "title": "0020098002 (A) Вентилятор PROTHERM Гепард 23 MTV",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/16287650/2a000001a0cd8c93ed539c25fc6931283bd2/M_height",
+    "price": 5000,
+    "id": 1,
+    "name": "Вентилятор Protherm Гепард 23 MTV",
+    "cat": "Вентиляторы",
+    "article": "0020098002",
+    "image": "/images/product-1.webp"
+  },
+  {
+    "title": "Двигатель насоса (A) NVN 15/6 Navien 30000469A",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/21998550/2a000001a0cd8db7269c52a23a4926f4b71c/M_height",
+    "price": 5500,
+    "id": 2,
+    "name": "Двигатель насоса NVN 15/6 Navien",
+    "cat": "Насосы",
+    "article": "30000469A",
+    "image": "/images/product-2.webp"
+  },
+  {
+    "title": "Адаптер для раздельной системы м/м 60/100 на 80/80",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/20807337/2a000001a0ce036fff252df9840f180dae4f/M_height",
+    "price": 2300,
+    "id": 3,
+    "name": "Адаптер раздельного дымохода",
+    "cat": "Дымоходы",
+    "article": "60/100 → 80/80",
+    "image": "/images/product-3.webp"
+  },
+  {
+    "title": "Двигатель насоса WILO KSL 15/5 4518537",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/17676517/2a000001a0cd92dee6ebc20f23579ebf8b24/M_height",
+    "price": 7000,
+    "id": 4,
+    "name": "Двигатель насоса Wilo KSL 15/5",
+    "cat": "Насосы",
+    "article": "4518537",
+    "image": "/images/product-4.webp"
+  },
+  {
+    "title": "Колено подключения 90° ( Φ60/100mm)",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/21167196/2a000001a0ce015144c35c9314bede787d7d/M_height",
+    "price": 1700,
+    "id": 5,
+    "name": "Колено подключения 90°",
+    "cat": "Дымоходы",
+    "article": "60/100 мм",
+    "image": "/images/product-5.webp"
+  },
+  {
+    "title": "(A) Втулка (против часовой стрелки) Protherm керамика",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/20807337/2a000001a0cd93b00d1209f531896c32a593/M_height",
+    "price": 3000,
+    "id": 6,
+    "name": "Керамическая втулка Protherm",
+    "cat": "Комплектующие",
+    "article": "Protherm",
+    "image": "/images/product-6.webp"
+  },
+  {
+    "title": "902603280 (A) Теплообменник вторичный FERROLI",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/20070877/2a000001a0cdd87a1be281dbc7bfabd06b43/M_height",
+    "price": 2500,
+    "id": 7,
+    "name": "Вторичный теплообменник Ferroli",
+    "cat": "Теплообменники",
+    "article": "902603280",
+    "image": "/images/product-7.webp"
+  },
+  {
+    "title": "1.036267 (A) Раcширительный бак 6л. 3/8\" PROTHERM LYNX",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/19318997/2a000001a0cddb1f58e6bbaf0070f456600d/M_height",
+    "price": 6500,
+    "id": 8,
+    "name": "Расширительный бак Protherm Lynx",
+    "cat": "Расширительные баки",
+    "article": "1.036267",
+    "image": "/images/product-8.webp"
+  },
+  {
+    "title": "46562200 (A) Плата управления Ferroli Fortuna",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/20070877/2a000001a0cddbf1319fb2023e0ab86c379d/M_height",
+    "price": 9500,
+    "id": 9,
+    "name": "Плата управления Ferroli Fortuna",
+    "cat": "Платы управления",
+    "article": "46562200",
+    "image": "/images/product-9.webp"
+  },
+  {
+    "title": "0020049376 (A) Плата управления ST6-10V2M Protherm KLZ",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/21163755/2a000001a0cdddce6ab06d3ef0f8bf52148c/M_height",
+    "price": 14000,
+    "id": 10,
+    "name": "Плата управления Protherm KLZ",
+    "cat": "Платы управления",
+    "article": "0020049376",
+    "image": "/images/product-10.webp"
+  },
+  {
+    "title": "398002570 (A) Теплообменник первичный FERROLI FORTUNA",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/21065124/2a000001a0cddef0db22c45ca4ead8be2588/M_height",
+    "price": 9000,
+    "id": 11,
+    "name": "Первичный теплообменник Ferroli Fortuna",
+    "cat": "Теплообменники",
+    "article": "398002570",
+    "image": "/images/product-11.webp"
+  }
+]
