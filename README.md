@@ -13,7 +13,8 @@ npm ci
 npm run dev
 ```
 
-Сборка: `npm run build`. Каталог результата: `dist/`.
+Сборка: `npm run build` (проверка TypeScript, затем Vite). Каталог результата: `dist/`.
+`tsconfig.json` обязателен: Lork запускает TypeScript перед публикацией даже для JavaScript-проектов.
 
 ## Что работает
 
